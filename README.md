@@ -1,4 +1,4 @@
-# dedupcorruptedfiles
+# Work with Windows data Deduplication Corrupted Files detected by Scrubbing Job
 This script will help to identify and if needed to delete corrupted files detected by the Windows Dedup Scrubbing Jobs
 
 SYNOPSIS
